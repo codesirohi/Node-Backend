@@ -1,0 +1,10 @@
+Repl
+Modules
+Node uses CommonJS library under the Hood
+Every file is a module by default
+ __dirname: path of current directory
+ __filename: file name
+ require: function to use Modules
+ process: info about env where the program is being executed
+
+ 

@@ -12,6 +12,11 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`[server]: server is running at https:localhost:${port}`);
+  console.log(`[server]: server is running at http://localhost:${port}/`);
 });
 
+let count =0;
+// setInterval(()=>{
+
+// })
+console.log('instantaneous ')  
